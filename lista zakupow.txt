@@ -3,3 +3,4 @@ jajka	8.00
 masło	5.50
 bulka	0.30
 kompot	9.00
+gowno 100
